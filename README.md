@@ -2,4 +2,4 @@
 --> Hello, I am Abu Habban.
 The developer of Neurone.
 
-https://abuhabban.github.io/typing-speed-test/
+https://abuhabban.github.io/Neuron/

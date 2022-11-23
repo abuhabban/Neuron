@@ -4,5 +4,8 @@
 
 https://abuhabban.github.io/Neuron/
 
-View Counter On Neuron Repository.
-https://profile-counter.glitch.me/abuhabban/count.svg
+
+<p align="center"> 
+View Counter On Neuron Repository.<br>
+  <img src="https://profile-counter.glitch.me/abuhabban/count.svg" />
+</p>

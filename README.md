@@ -3,9 +3,3 @@
 <h3>I Developed Neurone.</h3>
 
 https://abuhabban.github.io/Neuron/
-
-
-<p align="center"> 
-View Counter On Neuron Repository.<br>
-  <img src="https://profile-counter.glitch.me/abuhabban/count.svg" />
-</p>
